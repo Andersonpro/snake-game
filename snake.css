@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.container-snake {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+}
+
+button {
+    margin-top: 20px;
+    width: fit-content;
+}
